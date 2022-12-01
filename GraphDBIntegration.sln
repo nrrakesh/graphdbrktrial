@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphDBIntegration", "GraphDBIntegration.csproj", "{5234BEC9-1C9F-4881-AF0B-1FB40BFD5E9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5234BEC9-1C9F-4881-AF0B-1FB40BFD5E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5234BEC9-1C9F-4881-AF0B-1FB40BFD5E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5234BEC9-1C9F-4881-AF0B-1FB40BFD5E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5234BEC9-1C9F-4881-AF0B-1FB40BFD5E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F92541F-B1EE-4FFC-8D09-5E88DFD6EF81}
+	EndGlobalSection
+EndGlobal
