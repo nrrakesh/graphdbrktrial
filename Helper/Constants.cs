@@ -43,6 +43,5 @@ namespace GraphDBIntegration.Helper
             public const string Pending = "PENDING";
             public const string Timeout = "TIMEOUT";
         }
-
     }
 }
